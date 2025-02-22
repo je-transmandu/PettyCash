@@ -1,9 +1,7 @@
 "use client";
 
 import { ColumnDef } from "@tanstack/react-table";
-
 import { DataTableColumnHeader } from "@/components/tables/DataTableHeader";
-
 import { Cash } from "@/types";
 import CashDropdownActions from "@/components/dropdowns/CashDropdownActions";
 
